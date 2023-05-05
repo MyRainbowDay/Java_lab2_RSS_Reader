@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RSS_reader</string>
+    <string name="rss_link">RSS Link</string>
+</resources>
